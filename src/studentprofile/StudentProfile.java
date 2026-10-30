@@ -10,7 +10,8 @@ public class StudentProfile {
        System.out.println("Name: Nur Izzati Hadfina Binti Mohd Ridzuan");
        System.out.println("Student ID: S84787");
        System.out.println("Programme: Bachelor of Computer Science with Maritime Informatics(Honours)");
-       
+       System.out.println("Semester: Semester 1");
+       System.out.println("Favourite Language: Java");
     }
    
 }
